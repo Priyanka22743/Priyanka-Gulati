@@ -18,4 +18,4 @@ std_dev = np.std(array_a)  # Output: 0.8165
 print(f"Array Sum: {sum_arrays}")
 print(f"Mean of array: {mean_value}")
 print(f"Standard deviation of array: {std_dev}")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by  priyanka gulati- 0221BCA040")
