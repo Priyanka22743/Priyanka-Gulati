@@ -15,4 +15,4 @@ cat = Cat()
 print(dog.speak())
 print(cat.speak())
 
-print("Program by Diya Bhutani- 0221BCA041")
+print("Program by  priyanka gulati- 0221BCA040")
