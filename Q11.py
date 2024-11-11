@@ -26,4 +26,4 @@ print("REVERSED STRING",reversed_string)
 # print(person)
 # print(unique_numbers)
 
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by priyanka gulati - 0221BCA040")
