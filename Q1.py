@@ -1,2 +1,2 @@
 print("Hello World")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by Priyanka gulati - 0221BCA040")
