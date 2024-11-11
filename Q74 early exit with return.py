@@ -8,5 +8,4 @@ def find_first_even(numbers):
 nums = [1, 3, 5, 8, 9]
 first_even = find_first_even(nums)
 print(first_even)
-print("program by Diya Bhutani- 0221BCA041")
-
+print("Program by  priyanka gulati- 0221BCA040")
