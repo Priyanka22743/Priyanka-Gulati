@@ -10,4 +10,4 @@ def repeat(num_times):
 def greet(name):
  print(f"Hello, {name}!")
 greet("Alice")
-print("Program by Diya Bhutani- 0221BCA041")
+print("Program by  priyanka gulati- 0221BCA040")
